@@ -6,7 +6,7 @@ Welcome to the Online Pet Adoption platform! This shall be a web application dev
 
 - Fork this repository to create your own implementation repository.
 - Add your mentor and team members to your repository as contributors.
-- Checkin your weekly project code to your own (forked)repository.
+- Checkin your weekly project code to your own (forked) repository.
 
 ## Table of Contents
 
