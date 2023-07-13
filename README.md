@@ -10,15 +10,15 @@ Welcome to the Online Pet Adoption platform! This shall be a web application dev
 
 ## Table of Contents
 
-- [Feature Summary](#feature summary)
-- [Feature Details](#feature details)
+- [Feature Summary](#feature_summary)
+- [Feature Details](#feature_details)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Feature Summary
+## Feature_Summary
 
 The Online Pet Adoption platform offers the following features:
 
@@ -30,7 +30,7 @@ The Online Pet Adoption platform offers the following features:
 - User profile management
 - Donation support for the users to contribute to the welfare of animals
 
-## Feature Details
+## Feature_Details
 
 Here's an expanded feature list for the Online Pet Adoption platform:
 
