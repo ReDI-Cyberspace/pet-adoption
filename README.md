@@ -1,6 +1,6 @@
 # Online Pet Adoption - MERN Stack - Project paceholder and template
 
-Welcome to the Online Pet Adoption platform! This shall be a web application developed using the MERN Stack (MongoDB, Express.js, React, and Node.js). The application will facilitate the adoption of pets by connecting animal shelters with potential adopters. This readme file will guide you through the setup and usage of the application.
+Welcome to the Online Pet Adoption platform! This shall be a web application developed using the MERN Stack (MongoDB, Express.js, React, and Node.js). The application will facilitate the adoption of pets by connecting animal shelters with potential adopters. This readme file is to provide an example feature scope.
 
 ## Next Steps
 
